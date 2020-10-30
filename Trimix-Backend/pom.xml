@@ -83,6 +83,7 @@
 					<path>/</path>
 				</configuration>
 			</plugin>
+      
 		</plugins>
 	</build>
 	
